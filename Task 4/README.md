@@ -33,7 +33,7 @@ Refernce Github Repository: [iiitb_rv32i](https://github.com/vinayrayapati/rv32i
 
 it will create iiitb_rv32i.vcd file which is used for gtkwave.
 
-![vcd file command](https://github.com/user-attachments/assets/18b922c3-3d36-4079-8e77-f6f7387bd409)
+
 
 5.Open the gtkwave using command ``gtkwave iiitb_rv32i.vcd``
 
