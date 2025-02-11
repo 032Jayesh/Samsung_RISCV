@@ -37,7 +37,6 @@ it will create iiitb_rv32i.vcd file which is used for gtkwave.
 
 5.Open the gtkwave using command ``gtkwave iiitb_rv32i.vcd``
 
-![gtkwave](https://github.com/user-attachments/assets/5887f944-523f-491a-aff1-5ae5904ad603)
 
 The given Verilog file contains instructions that are hard-coded, meaning the designer has used custom bit patterns for each instruction instead of following the standard RISC-V specification for bit encoding.
 
